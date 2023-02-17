@@ -28,6 +28,11 @@
     border-radius: 5px;
 }
 
+.Counter > button:hover{
+    cursor: pointer;
+    background-color: #524c91;
+}
+
 /*////////////////////////////////////////////////// User  */
 .User {
     padding: 15px;

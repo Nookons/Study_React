@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import cl from "./useState.module.css";
+import addPosts from "../useEffect/UseEffect";
 
 const Form = () => {
     const [user, setUser] = useState({

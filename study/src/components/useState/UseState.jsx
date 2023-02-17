@@ -7,12 +7,8 @@ const UseState = () => {
 
     return (
         <div>
-            <h1 style={{textAlign: 'center', color: "#8e85ff"}}>UseState...</h1>
-            <hr/>
             <Counter />
             <Form />
-            <h1 style={{textAlign: 'center', color: "#8e85ff"}}>useEffect...</h1>
-            <hr/>
         </div>
     );
 };
